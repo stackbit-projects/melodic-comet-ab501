@@ -28,5 +28,6 @@
             "url": "/faq",
             "style": "link"
         }
-    ]
+    ],
+    "domain": "https://melodic-comet-ab501.netlify.app"
 }
